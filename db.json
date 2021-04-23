@@ -1,0 +1,8 @@
+{
+  "produtos": [
+    { "id": 1, "prod": "Monitor Acer 165Hz", "preco": "R$ 1.570,00" },
+    { "id": 2, "prod": "GeForce GTX 1650s", "preco": "R$ 2.800,00" },
+    { "id": 3, "prod": "Gabinete Gamer", "preco": "R$ 400,00" },
+    { "id": 4, "prod": "Processador Ryzen 5 3500", "preco": "R$ 1.000,00" }
+  ]
+}
